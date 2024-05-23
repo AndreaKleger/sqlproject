@@ -1,0 +1,4 @@
+
+ # Dies ist eine Datenbank um Tasks zu verwalten
+ # Jedem Task muss ein Verantwortlicher zugewiesen werden
+ # Jedem Task muss eine Kategorie zugewiesen werden (new, pending, stopped, completed)
